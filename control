@@ -1,0 +1,9 @@
+Package: kr.xsf1re.katalkrevealer
+Name: KaTalkRevealer
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, ws.hbang.common
+Version: 0.0.3
+Architecture: iphoneos-arm
+Description: Reveal Removed Message of KakaoTalk!
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
